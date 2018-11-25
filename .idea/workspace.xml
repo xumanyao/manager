@@ -2,38 +2,248 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec475015-fba9-4d57-a2b9-4d59809e5d69" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/bike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/carousel-img/carousel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/carousel-img/carousel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/carousel-img/carousel-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/end_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imooc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/logo-ant.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/start_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/user_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavLeft/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavLeft/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/menuConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/city/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/city/open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/info_alarm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/map/bike_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/mock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/open_city.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/order/detail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/order/ebike_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/order/finish_order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/order/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/permission/edit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/proxy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/query.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/restful/_id/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/role/create.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/role/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/role/user_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/role/user_role_edit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/table/high/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/table/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/table/list1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/upload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/user/add.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/user/delete.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/api/user/edit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/bike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/carousel-img/carousel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/carousel-img/carousel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/carousel-img/carousel-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/end_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/imooc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/logo-ant.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/start_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/assets/user_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/carousel-img/carousel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/carousel-img/carousel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/carousel-img/carousel-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/common.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/default.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/doc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/gallery/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/header/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/image/demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/loading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/loading.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/menuConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/order/detail.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/ui.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/common.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.config.dev.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1258231130">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="js" value="19" />
+          <entry key="json" value="1" />
+          <entry key="less" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="19" />
+          <entry key="Less" value="3" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1191" />
+          <entry key="less" value="302" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="1191" />
+          <entry key="Less" value="302" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.77537596">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/admin.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="144">
+                  <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/NavLeft/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="320">
+                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="26" selection-start-column="26" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#111#138#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/Footer/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="128">
+                  <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/Header/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="128">
+                  <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/config/menuConfig.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2416">
+                  <caret line="151" column="24" selection-start-line="151" selection-start-column="24" selection-end-line="151" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>cssRegex</find>
       <find>cssModuleRegex</find>
       <find>getStyleLoaders</find>
+      <find>less</find>
+      <find>resolve</find>
+      <find>alias</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -42,8 +252,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
         <option value="$PROJECT_DIR$/config/webpack.config.prod.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Footer/index.css" />
+        <option value="$PROJECT_DIR$/src/components/Header/index.css" />
+        <option value="$PROJECT_DIR$/src/components/NavLeft/index.css" />
+        <option value="$PROJECT_DIR$/src/components/Footer/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/index.js" />
+        <option value="$PROJECT_DIR$/src/style/common.less.css" />
+        <option value="$PROJECT_DIR$/src/admin.js" />
+        <option value="$PROJECT_DIR$/src/style/common.less" />
+        <option value="$PROJECT_DIR$/src/config/menuConfig.js" />
+        <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/src/components/NavLeft/index.less" />
+        <option value="$PROJECT_DIR$/src/components/NavLeft/index.js" />
       </list>
     </option>
   </component>
@@ -63,10 +285,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1183" />
-    <option name="y" value="170" />
-    <option name="width" value="590" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1182" />
+    <option name="y" value="169" />
+    <option name="width" value="591" />
     <option name="height" value="528" />
   </component>
   <component name="ProjectView">
@@ -85,12 +307,31 @@
             <path>
               <item name="manager" type="b2602c69:ProjectViewProjectNode" />
               <item name="manager" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="manager" type="b2602c69:ProjectViewProjectNode" />
               <item name="manager" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="NavLeft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,15 +341,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="LESS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react/manager/资料/课程源码/课程源码" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="F:\manager\node_modules\eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\project\manager\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="D:\project\manager\node_modules\eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="F:\imoc-manager\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\manager\public" />
+      <recent name="D:\project\manager\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\manager\src" />
     </key>
@@ -136,34 +387,35 @@
       <option name="presentableId" value="Default" />
       <updated>1543052903651</updated>
       <workItem from="1543052904800" duration="2575000" />
+      <workItem from="1543114699597" duration="14390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2575000" />
+    <option name="totallyTimeSpent" value="16965000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="npm" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15488483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,17 +442,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="322" column="22" lean-forward="true" selection-start-line="318" selection-start-column="19" selection-end-line="322" selection-end-column="22" />
+        <state relative-caret-position="176">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        <state relative-caret-position="320">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/common.less.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/api/map/bike_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#111#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="146" column="46" lean-forward="true" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/NavLeft/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/menuConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2416">
+          <caret line="151" column="24" selection-start-line="151" selection-start-column="24" selection-end-line="151" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/NavLeft/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
